@@ -1,4 +1,6 @@
-# NBA Champions Prediction
+# NBA Champions Prediction - First Part (Basic)
+
+The reason why this is called the first part (basic) is because this dataset, the .csv file, only has information about finals matchups, score, the finals winner, and conference runner ups. The NBA season is extremely unpredictable, I have to account for injuries, trades, player ratings, history, games, storylines, etc. That will all be covered in part two using a much larger dataset that I found on Kaggle. (https://www.kaggle.com/datasets/eoinamoore/historical-nba-data-and-player-box-scores/) will be used next. 
 
 This project uses historical NBA Finals data to **predict future champions** from 2026 to 2050, using Python and machine learning. It emphasizes modern teams over the old ones and there is a recency bias to produce more realistic outcomes (When I ran it the first time, the Syracuse Nationals and Washington Bullets were up there lol)
 
@@ -32,6 +34,7 @@ The CSV contains historical NBA Finals data, with columns including:
 ## 🛠 Tech Stack
 - **Python 3.9+**
 - **Jupyter Notebook**
+- **Kaggle**
 - **Pandas**
 - **NumPy**
 - **scikit-learn -> Random Forest classifier**
