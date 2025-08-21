@@ -7,8 +7,8 @@ This project uses historical NBA Finals data to **predict future champions** fro
 ## 🚀 Project Overview
 
 The goal of this project is to simulate and predict future NBA champions based on historical performance, with a focus on:
-- **Post-1990 data** to focus on relevant modern teams.
-- **Recency bias championships**, giving more importance to recent champs.
+- Post-1990 data to focus on relevant modern teams.
+- Recency bias champs, giving more importance to recent champs.
 - Got rid of old teams because they either don't exist or have been renamed. For example, the St. Louis Hawks, Minneapolis Lakers, Seattle Supersonics, etc.
 - Producing probabilistic predictions, rather than deterministic results.
 
